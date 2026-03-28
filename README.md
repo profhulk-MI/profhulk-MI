@@ -1,14 +1,18 @@
-<h1 align="center">Mahesh Inamdar</h1>
+## 🧠 About Me
 
-<p align="center">
-AI Researcher | Medical Imaging | Explainable AI | Uncertainty Quantification
-</p>
+- PhD in AI / Medical Imaging  
+- Focused on **trustworthy AI systems (XAI + UQ)**  
+- Designing **lightweight deep learning architectures**  
+- Bridging **research → production systems**
 
-<p align="center">
-Building reliable, lightweight AI systems for real-world deployment
-</p>
 
----
+## 🚀 Featured Work
+
+### 🧠 Stroke Detection (CT)
+- Lightweight CNN + Attention + UQ  
+- Explainability via Grad-CAM  
+- Reliable predictions with uncertainty estimation  
+👉 https://github.com/yourusername/project1 
 
 ## 🔗 Connect
 
@@ -17,33 +21,6 @@ Building reliable, lightweight AI systems for real-world deployment
 - Medium: https://medium.com/@yourprofile  
 - LinkedIn: https://linkedin.com/in/yourprofile  
 
----
-
-## 🧠 About Me
-
-- PhD in AI / Medical Imaging  
-- Focused on **trustworthy AI systems (XAI + UQ)**  
-- Designing **lightweight deep learning architectures**  
-- Bridging **research → production systems**
-
----
-
-## 🚀 Featured Work
-
-### 🧠 Stroke Detection (CT)
-- Lightweight CNN + Attention + UQ  
-- Explainability via Grad-CAM  
-- Reliable predictions with uncertainty estimation  
-👉 https://github.com/yourusername/project1  
-
----
-
-### 🌧️ Adverse Weather Detection
-- DETR-based object detection  
-- Robust to low visibility environments  
-👉 https://github.com/yourusername/project2  
-
----
 
 ## ⚙️ Core Expertise
 
