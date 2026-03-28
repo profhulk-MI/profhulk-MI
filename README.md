@@ -1,8 +1,8 @@
 ## 🧠 About Me
 
 - PhD in AI / Medical Imaging  
-- Focused on **trustworthy AI systems (XAI + UQ)**  
-- Designing **lightweight deep learning architectures**  
+- Focused on **trustworthy AI systems **  
+- Designing **lightweight AI architectures**  
 - Bridging **research → production systems**
 
 
@@ -10,17 +10,15 @@
 
 ### 🧠 Stroke Detection (CT)
 - Lightweight CNN + Attention + UQ  
-- Explainability via Grad-CAM  
+- Explainability 
 - Reliable predictions with uncertainty estimation  
-👉 https://github.com/yourusername/project1 
-
 
 ## ⚙️ Core Expertise
 
 - Deep Learning (PyTorch, TensorFlow)  
 - Medical Image Analysis  
-- Explainable AI (Grad-CAM, Score-CAM)  
-- Uncertainty Quantification (MC Dropout, Ensembles)  
+- Explainable AI 
+- Uncertainty Quantification
 - Distributed Computing (Dask, PySpark)  
 
 ---
@@ -43,10 +41,10 @@
 ---
 ## 📬 Contact
 
-- Email: yourmail@gmail.com  
+- Email: inamdarrr@outlook.com/ appuinamdar@gmail.com
 
 ---
 
 <p align="center">
-⭐ Focused on building AI that is not just accurate, but reliable and deployable
+Focused on building AI that is not just accurate, but reliable and deployable
 </p>
