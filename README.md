@@ -8,8 +8,8 @@
 
 ## 🚀 Featured Work
 
-### 🧠 Stroke Detection (CT)
-- Lightweight CNN + Attention + UQ  
+### 🧠 Ischemic Brain Stroke Detection using CT images
+- Lightweight CNN + Attention + Uncertainty Quantification
 - Explainability 
 - Reliable predictions with uncertainty estimation  
 
