@@ -43,7 +43,7 @@
 
 ## 📄 Research
 
-- Publications: https://scholar.google.com/citations?hl=en&user=Aru-8wQAAAAJ&view_op=list_works&sortby=pubdate
+- Publications: [Google Scholar] https://scholar.google.com/citations?hl=en&user=Aru-8wQAAAAJ&view_op=list_works&sortby=pubdate
 
 ---
 
