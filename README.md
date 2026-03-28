@@ -43,13 +43,13 @@
 
 ## 📄 Research
 
-- Publications: https://scholar.google.com/yourprofile  
+- Publications: https://scholar.google.com/citations?hl=en&user=Aru-8wQAAAAJ&view_op=list_works&sortby=pubdate
 
 ---
 
-## ✍️ Writing
+## ✍️ Blogs
 
-- Medium: https://medium.com/@yourprofile  
+- Medium: https://medium.com/@xMahesh
 
 ---
 
@@ -62,17 +62,3 @@
 <p align="center">
 ⭐ Focused on building AI that is not just accurate, but reliable and deployable
 </p>
-<!--
-**profhulk-MI/profhulk-MI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
