@@ -14,13 +14,6 @@
 - Reliable predictions with uncertainty estimation  
 👉 https://github.com/yourusername/project1 
 
-## 🔗 Connect
-
-- GitHub: https://github.com/yourusername  
-- Google Scholar: https://scholar.google.com/yourprofile  
-- Medium: https://medium.com/@yourprofile  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-
 
 ## ⚙️ Core Expertise
 
@@ -32,6 +25,14 @@
 
 ---
 
+## 🔗 Connect
+
+- GitHub: https://github.com/yourusername  
+- [Google Scholar:](https://scholar.google.com/citations?hl=en&user=Aru-8wQAAAAJ&view_op=list_works&sortby=pubdate)
+- Medium: https://medium.com/@yourprofile  
+- LinkedIn: https://linkedin.com/in/yourprofile  
+
+
 ## 🧩 Current Focus
 
 - Multi-scale CNN architectures for CT imaging  
@@ -40,19 +41,6 @@
 - Model interpretability and trust  
 
 ---
-
-## 📄 Research
-
-- Publications: [Google Scholar] https://scholar.google.com/citations?hl=en&user=Aru-8wQAAAAJ&view_op=list_works&sortby=pubdate
-
----
-
-## ✍️ Blogs
-
-- Medium: https://medium.com/@xMahesh
-
----
-
 ## 📬 Contact
 
 - Email: yourmail@gmail.com  
