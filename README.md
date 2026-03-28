@@ -1,7 +1,7 @@
 ## 🧠 About Me
 
 - PhD in AI / Medical Imaging  
-- Focused on **trustworthy AI systems **  
+- Focused on **trustworthy AI systems**  
 - Designing **lightweight AI architectures**  
 - Bridging **research → production systems**
 
