@@ -27,7 +27,8 @@
 - Multi-scale CNN architectures for CT imaging  
 - Attention + Graph-based modeling  
 - Reliable AI for healthcare deployment  
-- Model interpretability and trust  
+- Model interpretability and trust
+- Digital Twins - Predictive Analytics
 
 ---
 ## 🔗 Connect
